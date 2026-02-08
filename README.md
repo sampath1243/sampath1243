@@ -1,16 +1,41 @@
-## Hi there 👋
+# Hi, I'm Sampath Kumar Puttapaka 👋
 
-<!--
-**sampath1243/sampath1243** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Python Full Stack Developer | SQL | Problem Solving  
+🎯 Open to Software Developer Roles
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍💻 About Me
+- Passionate Python Full Stack Developer
+- Strong in problem-solving and logic building
+- Practicing coding programs daily for placements and interviews
+- Interested in Backend Development, APIs, Databases, and Full Stack Projects
+
+---
+
+## 🛠 Skills
+- Python
+- SQL
+- HTML, CSS, JavaScript
+- Git & GitHub
+- Problem Solving
+
+---
+
+## 📌 Featured Repository
+🔹 [CVCorp Placement Training Python Programs](https://github.com/sampath1243/cvcorp-placement-training-python)
+
+This repository contains my placement practice programs:
+- Patterns
+- Numbers Programs
+- Series & Conditions
+- Mathematical Methods
+
+---
+
+## 📫 Contact
+- GitHub: https://github.com/sampath1243
+- LinkedIn: https://www.linkedin.com/in/puttapaka-sampath-kumar-b981692b4
+---
+
+⭐ Thank you for visiting my profile!
